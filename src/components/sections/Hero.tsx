@@ -62,7 +62,7 @@ function InteractiveImage() {
           transition={{ duration: 0.6, ease: "easeOut" }}
         >
           <img
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1000&auto=format&fit=crop"
+            src="images/aneesDp.png"
             alt="Anees - Flutter Developer"
             className="w-full h-full object-cover grayscale-[0.2] group-hover:grayscale-0 group-hover:brightness-110 transition-all duration-700"
           />
